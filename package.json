@@ -1,0 +1,43 @@
+{
+  "version": "0.0.1",
+  "author": {
+    "name": "Oleh Aloshkin"
+  },
+  "bin": {
+    "pogodka": "./index.js",
+    "weather": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/AleshaOleg/pogodka/issues"
+  },
+  "dependencies": {
+    "ext-ip": "^0.3.8",
+    "geoip-lite": "^1.2.1"
+  },
+  "description": "Get current weather, from console",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.4.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "gitHead": "ee22710e008046226a4cc9fba94c88c0f6e2e15d",
+  "homepage": "https://github.com/AleshaOleg/pogodka#readme",
+  "keywords": [
+    "weather",
+    "console-weather"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "pogodka",
+  "optionalDependencies": {},
+  "readme": "# pogodka\nGet current weather, from console\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleshaOleg/pogodka.git"
+  }
+}
