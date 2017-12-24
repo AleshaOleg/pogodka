@@ -1,11 +1,14 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Oleh Aloshkin"
   },
   "bin": {
     "pogodka": "./index.js",
-    "weather": "./index.js"
+    "pogoda": "./index.js",
+    "pgd": "./index.js",
+    "weather": "./index.js",
+    "wthr": "./index.js"
   },
   "bugs": {
     "url": "https://github.com/AleshaOleg/pogodka/issues"

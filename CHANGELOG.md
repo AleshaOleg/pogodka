@@ -5,3 +5,6 @@
 ## 0.0.2
 * Round number to nearest to 0.5 decimal
 * Celsius/Fahrenheit designation depending on country
+
+## 0.0.3
+* Fix for `pogoda`, `pgd` and `wthr` commands
