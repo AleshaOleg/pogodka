@@ -8,3 +8,6 @@
 
 ## 0.0.3
 * Fix for `pogoda`, `pgd` and `wthr` commands
+
+## 0.0.4
+* Fix for `pgdk` command

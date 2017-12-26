@@ -1,11 +1,12 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "Oleh Aloshkin"
   },
   "bin": {
     "pogodka": "./index.js",
     "pogoda": "./index.js",
+    "pgdk": "./index.js",
     "pgd": "./index.js",
     "weather": "./index.js",
     "wthr": "./index.js"

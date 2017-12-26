@@ -13,6 +13,7 @@ Just type in command line, one of these commands:
 
 - `pogodka`
 - `pogoda`
+- `pgdk`
 - `pgd`
 - `weather`
 - `wthr`
