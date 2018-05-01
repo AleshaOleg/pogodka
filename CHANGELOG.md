@@ -11,3 +11,8 @@
 
 ## 0.0.4
 * Fix for `pgdk` command.
+
+## 0.0.5
+* Dependencies update
+* Metric/imperial units definition
+* .npmignore updates
