@@ -20,7 +20,7 @@
   },
   "description": "Get current weather, from console",
   "devDependencies": {
-    "babel-eslint": "^8.2.3",
+    "babel-eslint": "^10.1.0",
     "eslint": "^4.4.0",
     "eslint-config-standard": "^11.0.0",
     "eslint-plugin-import": "^2.7.0",
